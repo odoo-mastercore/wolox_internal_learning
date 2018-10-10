@@ -1,0 +1,8 @@
+[submodule "l10n_ar"]
+	path = l10n_ar
+	url = git@github.com:odoo-mastercore/l10n_ar.git
+	branch = develop
+[submodule "wolox_addons"]
+	path = wolox_addons
+	url = git@github.com:odoo-mastercore/wolox_addons.git
+	branch = 11.0
